@@ -1,9 +1,7 @@
 {
-<<<<<<< HEAD
-  "name": "props",
-=======
+
   "name": "projectreact",
->>>>>>> origin/main
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
